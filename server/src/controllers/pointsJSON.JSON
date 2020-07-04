@@ -1,0 +1,14 @@
+{
+  "title": "Mercado Imperatriz",
+  "email": "contato@imperatriz.com.br",
+  "whatsapp": "479992838539",
+  "latitude": -46.54989489,
+  "longitude": -35.18556485,
+  "city": "Aruja",
+  "uf": "SP",
+	"items": [
+		1,
+		2,
+		6
+	]
+}
